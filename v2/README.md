@@ -3,8 +3,8 @@
 Stay awake until 08:00 by scrolling the feed.
 **v2: mechanics only.** Theme and satire come later.
 
-**Play:** https://heelgueta.github.io/dopadoom/v2/ (frozen backup, git tag `v2`)
-**Pilot 1** (the first, feature-heavy prototype): https://heelgueta.github.io/dopadoom/pilot1/. Its source is in `pilot1/` and it's also git tag `pilot1`.
+**Play:** https://hicealgo.github.io/dopadoom/v2/ (frozen backup, git tag `v2`)
+**Pilot 1** (the first, feature-heavy prototype): https://hicealgo.github.io/dopadoom/pilot1/. Its source is in `pilot1/` and it's also git tag `pilot1`.
 
 ## Rules
 

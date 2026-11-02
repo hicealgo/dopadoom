@@ -2,8 +2,8 @@
 
 Stay awake until 08:00 by scrolling the feed. **v3.**
 
-**Play:** https://heelgueta.github.io/dopadoom/
-Old versions (also linked from the main menu): [pilot 1](https://heelgueta.github.io/dopadoom/pilot1/) · [v2](https://heelgueta.github.io/dopadoom/v2/). Their code is in `pilot1/` and `v2/`, and they're git tags `pilot1` and `v2`.
+**Play:** https://hicealgo.github.io/dopadoom/
+Old versions (also linked from the main menu): [pilot 1](https://hicealgo.github.io/dopadoom/pilot1/) · [v2](https://hicealgo.github.io/dopadoom/v2/). Their code is in `pilot1/` and `v2/`, and they're git tags `pilot1` and `v2`.
 
 ## Rules
 

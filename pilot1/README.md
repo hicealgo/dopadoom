@@ -3,7 +3,7 @@
 Stay awake until 08:00. The feed is your only friend.
 A doomscroll roguelike: Balatro's scoring, a four-swipe reel feed, and a clock that drains your dopamine.
 
-**Play:** https://heelgueta.github.io/dopadoom/pilot1/ (frozen backup of the first prototype, git tag `pilot1`)
+**Play:** https://hicealgo.github.io/dopadoom/pilot1/ (frozen backup of the first prototype, git tag `pilot1`)
 
 ## How it plays
 
